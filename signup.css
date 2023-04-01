@@ -11,7 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("../img/Lovepik_com-610711384-Cute\ personality\ Memphis\ decorative\ pattern\ PNG.png");
+    background-image: url("./img/Lovepik_com-610711384-Cute\ personality\ Memphis\ decorative\ pattern\ PNG.png");
     background-position:  center left;
     background-size: cover;
     background-color:#c7daf0;
@@ -28,7 +28,7 @@
 
 .pic-side{
     width: 75%;
-    background-image: url("../img/Counseller_vs_psychologist-removebg.png");
+    background-image: url("./img/Counseller_vs_psychologist-removebg.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
