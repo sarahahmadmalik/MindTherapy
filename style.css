@@ -6,7 +6,7 @@
 }
 
 .container {
-    background-image: linear-gradient(to top,#2c3e5069,#2c3e50e8),url("../img/picture.png");
+    background-image: linear-gradient(to top,#2c3e5069,#2c3e50e8),url("./img/picture.png");
     background-position: center;
     background-size: cover;
     max-height: 45%;
@@ -96,7 +96,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("../img/Lovepik_com-610711384-Cute\ personality\ Memphis\ decorative\ pattern\ PNG.png");
+    background-image: url("./img/Lovepik_com-610711384-Cute personality Memphis decorative pattern PNG.png");
     background-size: cover;
     background-position: left;
     background-attachment: fixed;
@@ -141,12 +141,12 @@
 }
 
 .i{
-    background-image: linear-gradient(rgba(40, 39, 39, 0.24),rgba(43, 42, 42, 0.285)),url("../img/p1.jpg");
+    background-image: linear-gradient(rgba(40, 39, 39, 0.24),rgba(43, 42, 42, 0.285)),url("./img/p1.jpg");
     background-size: cover;
 }
 
 .ii{
-    background-image: linear-gradient(rgba(40, 39, 39, 0.24),rgba(43, 42, 42, 0.285)),url("../img/p2.jpg");
+    background-image: linear-gradient(rgba(40, 39, 39, 0.24),rgba(43, 42, 42, 0.285)),url("./img/p2.jpg");
     background-size: cover;
 }
 
